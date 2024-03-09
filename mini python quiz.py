@@ -8,7 +8,6 @@ if playing.lower() != "yes":
 print("Great! Let's start :)")
 score = 0 
 
-
 answer = input("What year was Python first released? ")
 if answer == "1991":
     print("Correct!")
